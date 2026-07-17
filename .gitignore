@@ -1,0 +1,64 @@
+# Android Studio and IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle and Kotlin generated state
+.gradle/
+.kotlin/
+**/build/
+build/
+
+# Local Android SDK and machine configuration
+local.properties
+local.properties.*
+!local.properties.example
+
+# Secrets and private configuration
+.env
+.env.*
+!.env.example
+key.properties
+key.properties.*
+!key.properties.example
+signing.properties
+signing.properties.*
+*.jks
+*.keystore
+*.p12
+*.pem
+google-services.json
+
+# Native build and profiling output
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Packaged applications and release output
+*.apk
+*.aab
+app/release/
+release/
+outputs/
+
+# Logs, temporary files, and operating-system metadata
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Benchmark output generated on devices or copied locally
+dog_benchmark_*.csv
+
+# Internal audit and task reports
+docs/reports/
+*audit-report*.md
+*cleanup-report*.md
+*readiness-audit*.md
+*publishing-report*.md
+*validation-report*.md
+*security-report*.md
+*task-report*.md

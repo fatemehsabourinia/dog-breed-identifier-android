@@ -1,0 +1,6 @@
+# Optional example for a private signing setup. The public demo does not use it.
+# Keep the real key.properties and keystore outside version control.
+storeFile=/path/to/private/release-key.jks
+storePassword=REPLACE_WITH_PRIVATE_VALUE
+keyAlias=REPLACE_WITH_PRIVATE_VALUE
+keyPassword=REPLACE_WITH_PRIVATE_VALUE
