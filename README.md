@@ -136,6 +136,8 @@ THIRD_PARTY_NOTICES.md          # dependency and dataset acknowledgements
 
 ## Build
 
+For detailed environment setup and solutions to common SDK, NDK, JDK, Gradle, and device issues, see the [Android build and troubleshooting guide](docs/BUILDING.md).
+
 Requirements:
 
 - Android Studio with JDK 17 or newer supported by the configured Android Gradle Plugin.
