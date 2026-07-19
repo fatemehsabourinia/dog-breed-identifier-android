@@ -27,8 +27,16 @@ signing.properties.*
 *.jks
 *.keystore
 *.p12
+*.pfx
 *.pem
+*.cer
+*.crt
 google-services.json
+*service-account*.json
+*service_account*.json
+*firebase-adminsdk*.json
+*play-credentials*.json
+*publishing-credentials*.json
 
 # Native build and profiling output
 .externalNativeBuild/
@@ -41,14 +49,23 @@ captures/
 app/release/
 release/
 outputs/
+mapping.txt
+native-debug-symbols*.zip
+lint-results*
+test-results*
 
 # Logs, temporary files, and operating-system metadata
 *.log
 *.tmp
 *.swp
 *.swo
+*.hprof
 .DS_Store
 Thumbs.db
+
+# Private or draft screenshots
+**/screenshots/private/
+**/screenshots/drafts/
 
 # Benchmark output generated on devices or copied locally
 dog_benchmark_*.csv
