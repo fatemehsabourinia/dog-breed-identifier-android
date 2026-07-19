@@ -172,7 +172,7 @@ The result is an estimated visual classification, not veterinary, medical, ances
 
 ## Machine-learning repository relationship
 
-This repository focuses on Android deployment and on-device inference. Dataset preparation, model training, evaluation, and TensorFlow Lite export are documented in the companion Machine Learning repository: [Dog Breed Recognition](https://github.com/alirezazaeri/dog-breed-recognition).
+This repository focuses on Android deployment and on-device inference. Dataset preparation, model training, evaluation, and TensorFlow Lite export are documented in the companion Machine Learning repository: [Dog Breed Recognition](https://github.com/fatemehsabourinia/dog-breed-recognition).
 
 ## Licence status
 
