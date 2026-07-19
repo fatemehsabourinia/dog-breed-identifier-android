@@ -197,9 +197,11 @@ Security concerns can be reported using the guidance in [SECURITY.md](SECURITY.m
 
 This repository focuses on Android deployment and on-device inference. Dataset preparation, model training, evaluation, and TensorFlow Lite export are documented in the companion Machine Learning repository: [Dog Breed Recognition](https://github.com/fatemehsabourinia/dog-breed-recognition).
 
-## Licence status
+## Licence
 
-No open-source licence has been selected. The repository remains under default copyright; public visibility does not grant reuse or redistribution rights. Third-party dependencies and data sources remain subject to their own terms.
+Original public source code and documentation in this repository are available under the [MIT License](LICENSE).
+
+The production user interface, excluded production source, application branding, screenshots, bundled model, pretrained components, datasets, and third-party dependencies may remain subject to separate terms. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 ## Authors
 
