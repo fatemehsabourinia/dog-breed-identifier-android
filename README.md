@@ -10,7 +10,7 @@
 
 An Android AI application demonstrating on-device dog-breed classification with Kotlin, Jetpack Compose, and TensorFlow Lite. Users can select a gallery image or capture a photo, run local inference, and inspect the predicted breed, confidence, preprocessing time, inference time, and total latency.
 
-The complete production application is available on [Google Play](https://play.google.com/store/apps/details?id=com.zaeri.sabourinia.dogbreedidentifier), published by **Alireza Zaeri & Fatemeh Sabourinia**. This public repository contains a simplified portfolio interface that demonstrates the core Android and on-device AI engineering workflow. The production UI source code, custom visual design, animations, audio, and proprietary presentation assets are intentionally not included. Official application screenshots are provided only to demonstrate the complete published user experience.
+The complete production application is available on [Google Play](https://play.google.com/store/apps/details?id=com.zaeri.sabourinia.dogbreedidentifier), published by **Alireza Zaeri & Fatemeh Sabourinia**. This public repository contains a simplified demonstration interface that presents the core Android and on-device AI engineering workflow. The production UI source code, custom visual design, animations, audio, and proprietary presentation assets are intentionally not included. Official application screenshots are provided only to demonstrate the complete published user experience.
 
 ## Repository scope
 
@@ -132,6 +132,9 @@ MODEL_CARD.md                   # model contract, provenance, and limitations
 PRIVACY.md                      # public demo privacy details
 SECURITY.md                     # security reporting guidance
 THIRD_PARTY_NOTICES.md          # dependency and dataset acknowledgements
+CONTRIBUTING.md                 # contribution guidelines
+CODE_OF_CONDUCT.md              # community standards
+docs/BUILDING.md                # build and troubleshooting guide
 ```
 
 ## Build
